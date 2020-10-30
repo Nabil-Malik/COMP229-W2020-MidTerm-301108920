@@ -1,5 +1,5 @@
 {
-  "name": "COMP229-W2020-MidTerm-301108920",
+  "name": "comp229-w2020-midterm-301108920",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nabil-Malik/COMP229-W2020-MidTerm-301108920.git"
+    "url": "git+https://github.com/Nabil-Malik/COMP229-W2020-MidTerm-301108920.git"
   },
   "keywords": [
     "NodeJS",
@@ -54,8 +54,8 @@
   ],
   "author": "Nabil Malik",
   "license": "ISC",
+  "homepage": "https://github.com/Nabil-Malik/COMP229-W2020-MidTerm-301108920#readme",
   "bugs": {
-    "url": ""
-  },
-  "homepage": ""
+    "url": "https://github.com/Nabil-Malik/COMP229-W2020-MidTerm-301108920/issues"
+  }
 }
