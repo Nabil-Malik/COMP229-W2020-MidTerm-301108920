@@ -1,3 +1,10 @@
+/**
+ * File name: books.js
+ * Author's name: Nabil Malik
+ * Student Id: 301108920
+ * Web App name: COMP229-W2020-MidTerm-301108920
+ */
+
 let mongoose = require('mongoose');
 
 // create a model class

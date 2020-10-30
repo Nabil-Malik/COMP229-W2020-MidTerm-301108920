@@ -1,3 +1,10 @@
+/**
+ * File name: routed/index.js
+ * Author's name: Nabil Malik
+ * Student Id: 301108920
+ * Web App name: COMP229-W2020-MidTerm-301108920
+ */
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

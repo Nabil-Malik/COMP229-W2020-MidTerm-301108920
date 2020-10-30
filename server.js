@@ -1,3 +1,9 @@
+/**
+ * File name: server.js
+ * Author's name: Nabil Malik
+ * Web App name: COMP229-W2020-MidTerm-301108920
+ */
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
